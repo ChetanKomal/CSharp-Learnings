@@ -1,0 +1,16 @@
+﻿@model MVCApp.Models.MyViewModel
+
+<h1>Create MyViewModel class objects</h1>
+
+<form asp-controller="My" asp-action="submithandle" method="post">
+  <div class="form-group">
+    <label for="exampleInputEmail1" class="mb-3">Name</label>
+    <input asp-for=Name type="text" class="form-control" id="exampleInputEmail1" aria-describedby="nameHelp">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1" class="mb-3">Age</label>
+    <input asp-for=Age type="text" class="form-control" id="exampleInputPassword1" >
+  </div>
+ 
+  <button  type="submit" class="btn btn-primary">Submit</button>
+</form>

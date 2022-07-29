@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\bin\Debug\net6.0\TheBasics.exe
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\bin\Debug\net6.0\TheBasics.deps.json
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\bin\Debug\net6.0\TheBasics.runtimeconfig.json
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\bin\Debug\net6.0\TheBasics.dll
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\bin\Debug\net6.0\TheBasics.pdb
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.dll
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\refint\TheBasics.dll
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.pdb
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\TheBasics.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C# Learnings\CSharpBasics\TheBasics\obj\Debug\net6.0\ref\TheBasics.dll
